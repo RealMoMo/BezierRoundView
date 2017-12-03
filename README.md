@@ -1,21 +1,19 @@
 # BezierRoundView
 
-----
 # Gif
 
  ![image](https://github.com/RealMoMo/BezierRoundView/blob/master/gif/show.gif)
- 
-----
 
-#### Version
----
+
+## Version
+
  - v1.0.2  ： 增加自定义属性点与点的距离。
  - v1.0.3  ： 解决颜色叠加问题。
 
 
 <br/>
 
-### xml布局代码
+## xml布局代码
 ```
     <android.support.v4.view.ViewPager
         android:id="@+id/viewPager"
@@ -31,7 +29,7 @@
 ```
 <br/>
 
-### Activity里面集成代码
+## Activity里面集成代码
 ```
 ViewPager viewPager = (BezierViewPager) findViewById(R.id.viewPager);
 viewPager.setAdapter(adapter);
@@ -42,7 +40,7 @@ bezRound.attach2ViewPage(viewPager);
 <br/>
 <br/>
 
-### 方法及属性介绍
+## 方法及属性介绍
 
  - BezierRoundView
 
@@ -58,10 +56,10 @@ distance		   | dimension	 |圆心与圆心的距离，默认是均分viewWidth/(count+1)
 attach2ViewPage    |BezierViewPager|绑定指定的ViewPager(处理滑动时触摸事件)<br/>并自动设置round_count
 
 
----
 
 
-###  Thanks
+
+## Thanks
 	Everyone who has contributed code and reported issues and pull requests!
 
 

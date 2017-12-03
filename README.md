@@ -1,5 +1,9 @@
 # BezierRoundView
 
+关于本项目，源自于最近公司项目要求开发新的Launcher（当然这只是一小部分：展示应用列表），为了用户体验到更好交互方式。完整项目代码后续会更新。在此感谢[参照项目](https://github.com/qdxxxx/BezierViewPager)。
+
+
+
 # Gif
 
  ![image](https://github.com/RealMoMo/BezierRoundView/blob/master/gif/show.gif)
@@ -7,7 +11,7 @@
 
 ## Version
 
- - v1.0.2  ： 增加自定义属性点与点的距离。
+ - v1.0.2  ： 增加自定义属性点与点的距离，并居中显示。
  - v1.0.3  ： 解决颜色叠加问题。
 
 

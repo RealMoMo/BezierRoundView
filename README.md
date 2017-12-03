@@ -1,8 +1,11 @@
 # BezierRoundView
 
 ----
+# Gif
+
  ![image](https://github.com/RealMoMo/BezierRoundView/blob/master/gif/show.gif)
  
+----
 
 #### Version
 ---

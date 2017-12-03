@@ -6,6 +6,7 @@
 
 # Gif
 
+	大致放个示意图，大家别纠结UI背景那么丑。
  ![image](https://github.com/RealMoMo/BezierRoundView/blob/master/gif/show.gif)
 
 

@@ -57,7 +57,7 @@ color_touch        | color   	 |触摸反馈颜色
 color_not_select   | color	  	 |没有选中圆球的颜色
 time_animator      | integer 	 |动画时间
 round_count        | integer  	 |圆的数量，即Adapter.getCount
-radius             | dimension	 |贝塞尔圆球半径，圆框半径为(radius-2)
+radius             | dimension	 |贝塞尔圆球半径
 distance		   | dimension	 |圆心与圆心的距离，默认是均分viewWidth/(count+1)
 attach2ViewPage    |BezierViewPager|绑定指定的ViewPager(处理滑动时触摸事件)<br/>并自动设置round_count
 
